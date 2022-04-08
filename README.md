@@ -2,6 +2,9 @@
   <head>
   </head>
   <body>
+    <b>
+      Hello
+      <b>
     <script>
       var a;
       if(typeof(a)){
